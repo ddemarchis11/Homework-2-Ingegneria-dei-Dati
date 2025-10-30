@@ -1,0 +1,5 @@
+htbuilder
+elasticsearch
+dotenv
+streamlit
+tiktoken
